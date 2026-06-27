@@ -19,8 +19,8 @@ I am a Software Engineer passionate about automating infrastructure, building CI
 
 * **Certification:** HashiCorp Certified: Terraform Associate
 * **Issued:** June 2026
-* **Credential ID:** YOUR_CREDENTIAL_ID
-* **Credential URL:** YOUR_VERIFICATION_LINK
+* **Credential ID:** 4b56c6cd-e3c8-4555-a340-61db3622ac73
+* **Credential URL:** [YOUR_VERIFICATION_LINK](https://www.credly.com/badges/4b56c6cd-e3c8-4555-a340-61db3622ac73/public_url)
 
 ---
 
