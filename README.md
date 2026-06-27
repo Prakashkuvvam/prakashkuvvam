@@ -15,7 +15,7 @@ I am a Software Engineer passionate about automating infrastructure, building CI
 
 ## 🏆 Certifications
 
-### HashiCorp Certified: Terraform Associate (003)
+### HashiCorp Certified: Terraform Associate (004)
 
 * **Certification:** HashiCorp Certified: Terraform Associate
 * **Issued:** June 2026
